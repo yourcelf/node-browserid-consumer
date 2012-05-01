@@ -1,0 +1,32 @@
+{
+    "name": "browserid-consumer",
+    "description": "BrowserID consumer to verify tokens with an external server (such as Mozilla's).",
+    "keywords": [
+        "browserid",
+        "consumer",
+        "client"
+    ],
+    "version": 0.1.1,
+    "engine": [
+        "node": "*"
+    ],
+    "main": "browserid-consumer.coffee",
+    "dependencies": {
+        "coffee-script": ">=1.0.0",
+        "underscore": ">=1.0.0"
+    },
+    "devDependencies": {
+        "coffee-script": ">=1.0.0",
+        "underscore": ">=1.0.0",
+        "express": ">=2.5.9"
+    },
+    "author": {
+        "name": "Charlie DeTar",
+        "email": "cfd@media.mit.edu"
+    },
+    "homepage": "https://github.com/yourcelf/node-browserid-consumer",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/yourcelf/node-browserid-consumer.git"
+    }
+}
