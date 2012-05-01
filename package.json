@@ -6,10 +6,10 @@
         "consumer",
         "client"
     ],
-    "version": 0.1.1,
-    "engine": [
+    "version": "0.1.1",
+    "engine": {
         "node": "*"
-    ],
+    },
     "main": "browserid-consumer.coffee",
     "dependencies": {
         "coffee-script": ">=1.0.0",
