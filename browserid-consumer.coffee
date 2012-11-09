@@ -2,7 +2,7 @@ _ = require 'underscore'
 
 default_options =
   protocol: "https"
-  host: "browserid.org"
+  host: "verifier.login.persona.org"
   port: 443
   path: '/verify'
   method: 'POST'

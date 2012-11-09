@@ -1,12 +1,12 @@
 {
     "name": "browserid-consumer",
+    "version": "0.1.2",
     "description": "BrowserID consumer to verify tokens with an external server (such as Mozilla's).",
     "keywords": [
         "browserid",
         "consumer",
         "client"
     ],
-    "version": "0.1.1",
     "engine": {
         "node": "*"
     },
